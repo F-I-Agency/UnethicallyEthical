@@ -1,15 +1,30 @@
 # ♠ Ανήθικα Ηθικοί - Νομίμως Παράνομοι - Ηθικοί Πειρατές- Τα Λευκά & Κόκκινα Καπέλα - Οι Επιτιθέμενοι ♠
 
+● Απλά εργαλεία ●
+#
+- [Ping](https://play.google.com/store/apps/details?id=com.hsteen.ping) - από HSteen
+- [Ping IP - Network utility](https://play.google.com/store/apps/details?id=com.rtsoftware.pingtool) - από ZoroSoft
+- [Ping](https://play.google.com/store/apps/details?id=local.pivot.pingmeter) - από Enrico Pivato
+- [Ping - Network Utility](https://play.google.com/store/apps/details?id=com.xtianxian.ping) - από XtianXian Dev
+
 ● Ολοκληρωμένες λύσεις ●
 #
 #### Δωρεάν
 - [LanDroid](https://play.google.com/store/apps/details?id=net.fidanov.landroid) - από Fidanov Networks
 - [PingTools Network Utilities](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools) - από StreamSoft
 - [HTTP Tools](https://play.google.com/store/apps/details?id=com.cafelabs.curlme) - από Cafelabs
-- [IOT Scanner](https://play.google.com/store/apps/details?id=com.knabl.iotsecurityscanner) - από Kai Knabl
-- [Ping Tools - Network Utilities](https://play.google.com/store/apps/details?id=com.srdev.pingtools) - από SR International
 - [NetX Network Tools](https://play.google.com/store/apps/details?id=com.tools.netgel.netx) - από NetGEL
 - [Opensignal - 5G, 4G Speed Test](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - από Opensignal.com
+- [Ping & Net](https://play.google.com/store/apps/details?id=com.ulfdittmer.android.ping) - από Ulf Dittmer
+- [Ping Tool - DNS, Port Scanner](https://play.google.com/store/apps/details?id=com.manageengine.pingapp) - από ManageEngine
+- [IP Tools: Network Intelligence](https://play.google.com/store/apps/details?id=net.bigdatacloud.iptools) - από BigDataCloud.com
+- [IP Finder – IP address checker](https://play.google.com/store/apps/details?id=com.txhai.myip.ipaddress.speedtest) - από StreamFX
+- [Ping Tool - DNS, Port Scanner](https://play.google.com/store/apps/details?id=com.manageengine.pingapp) - από ManageEngine
+- [PingMaster Network Utilities](https://play.google.com/store/apps/details?id=com.appplanex.pingmasternetworktools) - από AppPlanex
+- [IP Scanner](https://play.google.com/store/apps/details?id=com.iptools.networkmanager.pk) - από DigitalBox Studios
+- [he.net - Network Tools](https://play.google.com/store/apps/details?id=net.he.networktools) - από Hurricane Electric, LLC
+- [DR-NetTools](https://play.google.com/store/apps/details?id=pl.dronline.nettools) - από DR-ONLINE
+
 
 #### Εν μέρει δωρεάν
 - [Fing - Network Tools](https://play.google.com/store/apps/details?id=com.overlook.android.fing) - από Fing Limited
@@ -26,11 +41,18 @@
 - [Network Tools: WiFi Analyzer](https://play.google.com/store/apps/details?id=com.fittech.network.tools) - από Fit Tech
 - [IP Tools - Router Admin Setup](https://play.google.com/store/apps/details?id=com.msint.iptools.info) - από MS International
 - [Router Admin Setup - IP Tools](https://play.google.com/store/apps/details?id=com.appworld.wifiroutersettings) - από apptech_Infotech
+- [Ping](https://play.google.com/store/apps/details?id=com.lipinic.ping) - από Lipinic
+- [Ping](https://play.google.com/store/apps/details?id=ru.otdr.ping) - από appsteka
+- [Pingmon - network ping monitor](https://play.google.com/store/apps/details?id=com.mishuto.pingtest) - από mishuto
+- [IP Tools & Geolocation](https://play.google.com/store/apps/details?id=com.brb.iptools.c) - από BRB Apps
 
 #### Επί πληρωμή
 - [HTTP Tools Pro](https://play.google.com/store/apps/details?id=com.cafelabs.httppro) - από Cafelabs
 - [NetMan: Network Tools & Utils](https://play.google.com/store/apps/details?id=com.eakteam.networkmanager.pro) - από EAK TEAM ELECTRONICS
 - [Network Tools Pro :WiFi Lan Sc](https://play.google.com/store/apps/details?id=com.datamedic.networktools.pro) - από Datamedic Business IT Support
+- [Ping Master: Network Tools PRO](https://play.google.com/store/apps/details?id=com.appplanex.pingmasternetworktools.pro) - από AppPlanex
+- [NetX Network Tools PRO](https://play.google.com/store/apps/details?id=com.tools.netgel.netxpro) - από NetGEL
+- [
 #
 ● Επιθετικά εργαλεία για επιθετικούς χειριστές ●
 #
