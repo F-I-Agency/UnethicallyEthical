@@ -1,4 +1,4 @@
-# ♠ Ανήθικα Ηθικοί - Νομίμως Παράνομοι - Ηθικοί Πειρατές- Τα Λευκά & Κόκκινα Καπέλα - Οι Επιτιθέμενοι ♠
+# ♠ Ανήθικα Ηθικοί - Νομίμως Παράνομοι - Οι Επιτιθέμενοι ♠
 
 ● Απλά εργαλεία ●
 #
@@ -34,7 +34,6 @@
 - [Network Analyzer](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an) - από Jiri Techet
 - [Network Utilities](https://play.google.com/store/apps/details?id=com.myprog.netutils) - από First Row
 - [Network Scanner](https://play.google.com/store/apps/details?id=com.myprog.netscan) - από First Row
-- [Network Scanner](https://play.google.com/store/apps/details?id=com.easymobile.lan.scanner) - από Easy Mobile
 - [IP Tools: WiFi Analyzer](https://play.google.com/store/apps/details?id=com.ddm.iptools) - από IP Tools Network Utilities
 - [Network Tools: IP, Ping, DNS](https://play.google.com/store/apps/details?id=com.world.globle.network.tools.vs) - από WORLD GLOBLE APPS
 - [Network Tools - DNS Changer](https://play.google.com/store/apps/details?id=com.creativetech.networktools.dnschanger) - από Creative Tech Innovation
@@ -47,12 +46,9 @@
 - [IP Tools & Geolocation](https://play.google.com/store/apps/details?id=com.brb.iptools.c) - από BRB Apps
 
 #### Επί πληρωμή
-- [HTTP Tools Pro](https://play.google.com/store/apps/details?id=com.cafelabs.httppro) - από Cafelabs
 - [NetMan: Network Tools & Utils](https://play.google.com/store/apps/details?id=com.eakteam.networkmanager.pro) - από EAK TEAM ELECTRONICS
-- [Network Tools Pro :WiFi Lan Sc](https://play.google.com/store/apps/details?id=com.datamedic.networktools.pro) - από Datamedic Business IT Support
 - [Ping Master: Network Tools PRO](https://play.google.com/store/apps/details?id=com.appplanex.pingmasternetworktools.pro) - από AppPlanex
 - [NetX Network Tools PRO](https://play.google.com/store/apps/details?id=com.tools.netgel.netxpro) - από NetGEL
-- [
 #
 ● Επιθετικά εργαλεία για επιθετικούς χειριστές ●
 #
@@ -62,18 +58,12 @@
 #### Δωρεάν
 - [G-MoN](https://play.google.com/store/apps/details?id=de.carknue.gmon2) - από C. Knuetter
 - [Network IP Scanner](https://play.google.com/store/apps/details?id=com.goodidea.network.ipscanner) - από Good Idea.
-- [WiFi Tracker](https://play.google.com/store/apps/details?id=org.prowl.wifiscanner) - από Ian Hawkins
 - [WIBR+ pro without root](https://play.google.com/store/apps/details?id=io.sdappstudio.pixiewps) - από mobnew
-- [Vulners Scanner](https://play.google.com/store/apps/details?id=com.vulners) - από Vulners Team
 - [PentestKit Mobile](https://play.google.com/store/apps/details?id=com.pentestkit) - από The Joloto Project
 - [Network IP Port Scanner](https://play.google.com/store/apps/details?id=com.ecs.roboshadow) - από Robo Shadow
-- [WebApp Vulnerability Test](https://play.google.com/store/apps/details?id=com.aseemsethi.vulntest) - από Aseem Sethi
-- [Nipper - Toolkit Web Scan](https://play.google.com/store/apps/details?id=com.websecuritydev.nipper) - από DyMarketing
 - [Port Authority - Port Scanner](https://play.google.com/store/apps/details?id=com.aaronjwood.portauthority.free) - από Aaron Wood
-- [ZIP Password Cracker](https://play.google.com/store/apps/details?id=com.better_life.zip_password_cracker) - από Better Life .
 - [Hash Suite Droid](https://play.google.com/store/apps/details?id=com.hashsuite.droid) - από Openwall / Hash Suite Software
 - [Change My MAC - Spoof Wifi MAC](https://play.google.com/store/apps/details?id=net.xnano.android.changemymac) - από Banana Studio
-- [Wifi Mac Changer](https://play.google.com/store/apps/details?id=com.wireless.macchanger) - από Osama Abukmail
 
 #### Εν μέρη δωρεάν 
 - [Network Cell Info Lite & Wifi](https://play.google.com/store/apps/details?id=com.wilysis.cellinfolite) - από M2Catalyst, LLC.
@@ -89,7 +79,6 @@
 
 #### Δωρεάν
 - [Dexplorer](https://play.google.com/store/apps/details?id=com.dexplorer) - από Dexplorer
-- [Disassembler](https://play.google.com/store/apps/details?id=com.kyhsgeekcode.disassembler) - από KYHSGeekCode
 - [Show Java - A Java Decompiler](https://play.google.com/store/apps/details?id=com.njlabs.showjava) - από Niranjan Rajendran
 
 #### Εν μέρει δωρεάν
