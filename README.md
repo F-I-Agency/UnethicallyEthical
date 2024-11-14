@@ -1,5 +1,7 @@
 # ♠ Ανήθικα Ηθικοί - Νομίμως Παράνομοι - Οι Επιτιθέμενοι ♠
 
+![29 Hackers](https://github.com/user-attachments/assets/9755a5b6-ecf8-4196-8051-84ab3219933f)
+
 ● Απλά εργαλεία ●
 #
 - [Ping](https://play.google.com/store/apps/details?id=com.hsteen.ping) - από HSteen
